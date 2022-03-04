@@ -1,0 +1,42 @@
+a {
+  text-decoration: none;
+}
+.my-nav ul {
+  background-color: #fff;
+}
+.my-nav a {
+  color: #707070;
+  font-size: 17px;
+}
+.my-nav a:hover {
+  color: #ffe600;
+}
+.content-header {
+  background-color: #324651;
+  height: calc(100vh - 50px);
+}
+.content-header p span {
+  color: #ffe600;
+}
+.content-header p {
+  color: #e6e6e6;
+  font-size: 20px;
+}
+.content-header h1 {
+  color: #e6e6e6;
+  font-size: 50px;
+}
+.content-header a {
+  color: #ffe600;
+  background-color: #e6e6e6;
+}
+.content-header .slide span {
+  background-color: #e6e6e6;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+.content-header .slide span:first-of-type {
+  background-color: #ffe600;
+}
